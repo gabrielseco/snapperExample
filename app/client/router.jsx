@@ -30,7 +30,7 @@ import { Tabs, TabsOne, TabsTwo, TabsThree, TabsFour } from './imports/component
 
 var main = function () {
   var pageList = [
-    { path:'/', component:Snapper, title:'React Ionic'},
+    { path:'/', component:Index, title:'React Ionic'},
     /*{ path:'/about', component:About, title:'About', done:true},
     { path:'/actionSheet', component:ActionSheet, title:'Action Sheet', done:true},
     { path:'/backdrop', component:Backdrop, title:'Backdrop', done:true},
